@@ -1,0 +1,6 @@
+global:
+    name: k8s-consul
+syncCatalog:
+    enabled: true
+    toConsul: true
+    toK8S: false
